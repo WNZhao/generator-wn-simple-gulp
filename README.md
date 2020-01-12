@@ -7,13 +7,13 @@ First, install [Yeoman](http://yeoman.io) and generator-wn-simple-gulp using [np
 
 ```bash
 npm install -g yo
-npm install -g generator-wn-simple-gulp
+npm install -g generator-simple-learn-gulp
 ```
 
 Then generate your new project:
 
 ```bash
-yo wn-simple-gulp
+yo generator-simple-learn-gulp
 ```
 
 ## Getting To Know Yeoman
