@@ -1,0 +1,24 @@
+{
+  "name": "learn-gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.joyjs.cn:willzhao/learn-gulp.git",
+  "author": "伟男 <26732421@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-load-plugins": "^2.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "browserslist": [
+    "last 2 Version",
+    "> 2%"
+  ]
+}
