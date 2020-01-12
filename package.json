@@ -1,10 +1,10 @@
 {
   "name": "generator-wn-simple-gulp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "web app use gulp build",
   "homepage": "",
   "author": {
-    "name": "",
+    "name": "willzhao",
     "email": "zhaoweinanV5@gmail.com",
     "url": ""
   },
